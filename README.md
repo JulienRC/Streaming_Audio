@@ -1,6 +1,7 @@
 # Streaming_Audio
 
-The goal of this project is to program a streaming audio platform like Spotify. There is a server which have the music and there is a client which ask to play a music. The server will send the data of the music, the client will receive the data and play it in real time. The exchange is with the protocol UDP. We can only have one client at a time, if a second client try to connect to the server, he will receive an error message. The client can ask to add some options for this music like accelerate, slow down or the volume.
+The goal of this project is to program a streaming audio platform like Spotify. <br/>
+There is a server which have the music and there is a client which ask to play a music. The server will send the data of the music, the client will receive the data and play it in real time. The exchange is with the protocol UDP. We can only have one client at a time, if a second client try to connect to the server, he will receive an error message. The client can ask to add some options for this music like accelerate, slow down or the volume.
 
 # How to use
 
